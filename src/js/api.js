@@ -15,5 +15,5 @@ export default getNotificationsParams = () => {
   return {
     templateName: Math.random() > 0.5 ? 'firstTemplate' : 'secondTemplate',
     params: createParams()
-  }
+  };
 }
