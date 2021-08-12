@@ -1,5 +1,5 @@
 # ads-test
 
-##npm i - to install all dependencies
+## npm i - to install all dependencies
 
-##npm start - to start localhost
+## npm start - to start localhost
